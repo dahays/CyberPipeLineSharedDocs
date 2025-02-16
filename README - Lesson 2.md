@@ -5,7 +5,7 @@ Damien Hays, Team member 2
 This program plays a game to guess numbers from 1 to 1000 or between numbers specified by the players.  It prompts the user for their first names
 and if they would like to specify their own min/max for guesses.  When the game is over it outputs a message with the winner and the number of guesses it took.
 
-### <program_name> Flowchart
+### Number Guessing Game Flowchart
 ```mermaid
 graph TD;
   main-->menu;
