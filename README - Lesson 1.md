@@ -2,7 +2,7 @@
 Damien Hays, Team member 2, Team member 3, etc..
 
 ## User Login Generator Description
-Welcome to the user login generator.  It takes information from the user and uses that information to generate their system login username.
+Welcome to the user login generator.  This program takes information from the user and uses that information to generate their system login username.
 
 ### User Login Generator Flowchart
 ```mermaid
