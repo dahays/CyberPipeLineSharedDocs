@@ -2,8 +2,8 @@
 Damien Hays, Team member 2
 
 ## Number Guessing Game Description
-This program plays a game to guess numbers from 1 to 1000 or between numbers specified by the players.  It prompts the user for their first names
-and if they would like to specify their own min/max for guesses.  When the game is over it outputs a message with the winner and the number of guesses it took.
+This program plays a game to guess numbers from 1 to 1000 or between numbers specified by the players.  It prompts each player for their first name
+and if they would like to specify their own min/max for guesses.  When the game is over it outputs a message with the winner and the number of guesses it took.  This program was written as a team assignment by Sam and Dean Winchester.
 
 ### Number Guessing Game Flowchart
 ```mermaid
